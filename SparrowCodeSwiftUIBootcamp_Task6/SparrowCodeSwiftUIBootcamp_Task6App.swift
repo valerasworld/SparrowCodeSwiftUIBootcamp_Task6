@@ -11,7 +11,7 @@ import SwiftUI
 struct SparrowCodeSwiftUIBootcamp_Task6App: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MovingSquares()
         }
     }
 }
